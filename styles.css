@@ -55,7 +55,16 @@ body{
     flex-direction: column;
     align-items: center;
 }
-
+#c{
+    background-color: rgb(230, 13, 13);
+}
+#del{
+    color:white;
+    background-color:black;
+}
+.equal{
+    background-color: rgb(23, 205, 23);
+}
 
 
 
